@@ -1,0 +1,13 @@
+
+.content{
+  grid-area: c;
+  background-color: #b5b5b5b3;
+
+}
+.item{
+  color: blueviolet;
+}
+
+.mainPhoto{
+  max-height:  50px;
+}
